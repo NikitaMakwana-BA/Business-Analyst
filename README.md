@@ -1,1 +1,2 @@
 # Business-Analyst
+Welcome to my Business Analytics Portfolio! This repository contains a collection of projects I've created as part of my learning journey through YouTube tutorials. These projects focus on data analysis, visualization, and actionable business insights using Power BI and Excel. The tutorials were guided by content from Alex the Analyst, Rishabh Mishra, and Chandoo, well-known creators in the field of data analytics and business intelligence.
